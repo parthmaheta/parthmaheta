@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parthmaheta
-- 👀 I’m interested in ... web and mobile development
-- 🌱 I’m currently learning ... flutter
-- 💞️ I’m looking to collaborate on ... any intresting thing
+- 👀 I’m interested in ... SEO,SEM,SMO,Growth Hacking
+
+
 
 
 <!---
