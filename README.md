@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @parthmaheta
-- 👀 I’m interested in ... SEO,SEM,SMO,Growth Hacking
+- 👀 I’m interested in ... web technologies.
+- i know javascript,react,node js ,php ...
 
 
 
