@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @parthmaheta
-- 👀 I’m interested in ... web technologies.
 - i know javascript,react,node js ,php ...
+- i write about programming at https://parthmaheta.com
+- using technologies to solve problem is something that excites me.
 
 
 
