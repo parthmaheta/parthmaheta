@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parthmaheta
 - i know javascript,react,node js ,php ...
 - i write about programming at https://parthmaheta.com
-- using technologies to solve problem is something that excites me.
+- using technologies to solve real world problems is something that excites me every morning.
 
 
 
