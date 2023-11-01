@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @parthmaheta
-- i know javascript,react,node js ,php ...
+- 👋 Hi, I’m @parthmaheta from Northern Hemisphere
+- i am geek who love to write high quality code
+- i know javascript,react,node js ,php ... this list keep increasing because of my curiosity about technologies
 - using technologies to solve real world problems is something that excites me every morning.
 
 
